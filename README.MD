@@ -1,6 +1,8 @@
 # Wheater app
 This small project is a style practice for me
-### Image: ![Demo: ](https://raw.githubusercontent.com/thiZguy/weather-app/main/images/page-demo.gif)
+### DEMO
+
+![Demo: ](https://raw.githubusercontent.com/thiZguy/weather-app/main/images/page-demo.gif)
 
 ## USE
  1. Clone the project
