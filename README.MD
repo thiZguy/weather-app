@@ -1,4 +1,4 @@
-# Wheater app
+# Weather app
 This small project is a style practice for me
 ### DEMO
 
